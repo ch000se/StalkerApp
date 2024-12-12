@@ -9,6 +9,6 @@ object Constants {
     const val LAST_ON_BOARDING_PAGE = 2
     const val PREFERENCES_NAME = "stalker_preferences"
     const val PREFERENCES_KEY = "on_boarding_completed"
-    const val BASE_URL = "http://10.0.2.2:8080"
+    const val BASE_URL = "https://stalkerserver-444101.uc.r.appspot.com"
     const val ITEMS_FOR_PAGE = 3
 }

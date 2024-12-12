@@ -63,7 +63,7 @@ class HeroRemoteMediator @Inject constructor(
             }
 
             Log.d("HeroRemoteMediator", "Fetching data for page: $page")
-            val response = stalkerApi.getAllHeroes()
+            val response = stalkerApi.getAllHeroes(page)
 
             Log.d("HeroRemoteMediator", "API Response: $response")
 

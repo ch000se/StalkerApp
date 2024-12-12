@@ -8,7 +8,7 @@ interface StalkerApi {
 
     @GET("/stalker/heroes")
     suspend fun getAllHeroes(
-        @Query("page") page: Int = 1
+        @Query("page") page: Int
     ): ApiResponse
 
     @GET("/stalker/heroes/search")

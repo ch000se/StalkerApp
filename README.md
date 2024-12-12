@@ -109,4 +109,4 @@ For feedback, suggestions, or questions, reach out:
 
 - Author: ch000se
 - Email: svyatikchaykivskiy@gmail.com
-- Telegram: @ch000se
+- Telegram: [@ch000se](https://t.me/ch000se)

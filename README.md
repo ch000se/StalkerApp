@@ -16,7 +16,7 @@ The app is built with **Kotlin** for the mobile side and is powered by a **serve
 ---
 
 ## 📸 Preview
-![StalkerApp Screenshot](https://imgur.com/a/7WjNJkb)
+![StalkerApp Screenshot](app/src/main/res/drawable/ZP6TIFD%20-%20Imgur.png)
 
 ---
 
